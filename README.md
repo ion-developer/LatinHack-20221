@@ -10,6 +10,3 @@ _ULatinHack nace con el objetivo de fomentar y apoyar soluciones innovadoras por
 _Dentro del itinerario se desarrollarán 8 Tech Talks:
 Design Thinking, SAP Cloud Application Programming Model, Elevator pitch, SAP Analytics Cloud, Business Model Canvas, Integración, iRPA y Chatbot, esto con el objetivo de brindar las herramientas necesarias a los participantes previo al evento.
 Como parte del desarrollo de esos Tech talks, en este repo tenemos carpetas para cada workshop, y dentro 3 templates de materiales necesarios. Van a ser actualizados conforme a las fechas de los workshops_
-
-## Dudas 📌
-Si tienes dudas o dificultades puedes escribirnos a: ialvarez@csticorp.biz.
